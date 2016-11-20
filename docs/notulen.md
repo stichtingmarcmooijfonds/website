@@ -1,6 +1,6 @@
 #Notulen
 
-[Notulen 13 april 2013](https://drive.google.com/open?id=0BzYtFeTXKt3VSnpNZEhxNmsxMEU "Notulen 13 april 2013")  
+[Notulen 13 april 2013](/notulen/20130413notulenStichtingMarcMooijFonds.pdf "Notulen 13 april 2013")  
   
-[Notulen 24 juni 2015](https://drive.google.com/open?id=0BzYtFeTXKt3VLWt0cGZKWlhKTlE "Notulen 24 juni 2015")  
+[Notulen 24 juni 2015](/notulen/20150624notulenStichtingMarcMooijFonds.pdf  "Notulen 24 juni 2015")  
   
