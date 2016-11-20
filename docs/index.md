@@ -1,17 +1,45 @@
-# Welcome to MkDocs
+# Welkom bij de Stichting Marc Mooij Fonds
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+##ANBI
 
-## Commands
+Stichting Marc Mooij Fonds heeft een officiële ANBI-status. Giften gedaan aan goeddoelinstellingen zijn aftrekbaar van het belastbaar inkomen als de instelling aangemerkt is als algemeen nut beogende instelling (ANBI).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+##Beleidsplan
 
-## Project layout
+Meer informatie over onze plannen leest u in Beleidsplan Stichting Marc Mooij Fonds.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+##Beloningsbeleid
+
+De bestuurders van Stichting Marc Mooij Fonds ontvangen geen beloning voor hun werkzaamheden.
+
+##Doelstelling
+
+Ons doel is voorwaarden te scheppen om individuen mogelijkheden te bieden een beter bestaan op te kunnen bouwen en te kunnen voorzien in een eigen levensonderhoud; de Stichting tracht dit doel ondermeer te bereiken door het bijeenbrengen van gelden ten behoeve van studie. Het verrichten van alle verdere handelingen, die met het bovenstaande in de ruimste zin verband houden of daartoe bevorderlijk kunnen zijn; en voorts al het geen met een en ander rechtstreeks of zijdelings verband houdt of daartoe bevorderlijk kan zijn, alles in de ruimste zin des woords
+
+##Algemeen
+
+Ingeschreven bij de Kamer van Koophandel voor Rotterdam onder nummer 51095467.
+RSIN/fiscaal nummer: 8230.88.807
+Bankrekening: NL54RABO0148742181
+
+##Doel
+
+Het financieel ondersteunen van kinderen van mensen die zich verdienstelijk gemaakt hebben in de publieke sector en/of door maatschappelijke relevante activiteiten.
+
+
+##Adres en contact
+
+Westersingel 6
+3014 GM Rotterdam
+E-mail: nosinga@gmail.com
+
+##Bestuurders
+
+Voorzitter
+Winfried van den Muijsenbergh
+
+Secretaris
+Nanne Osinga
+
+Penningmeester
+Marlies Martnes
