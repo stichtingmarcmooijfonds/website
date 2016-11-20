@@ -42,4 +42,4 @@ Secretaris
 Nanne Osinga  
 
 Penningmeester  
-Marlies Martnes  
+Marlies Martens  
