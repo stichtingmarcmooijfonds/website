@@ -1,6 +1,8 @@
 ---
 pages:
   - Home: index.md
+  - Notulen: notulen.md
+  - Financiën: financien.md 
 site_name: Stichting Marc Mooij Fonds
 dev_addr: '0.0.0.0:8000'
 theme: readthedocs

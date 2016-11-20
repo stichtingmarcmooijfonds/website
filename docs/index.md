@@ -18,9 +18,9 @@ Ons doel is voorwaarden te scheppen om individuen mogelijkheden te bieden een be
 
 ##Algemeen
 
-Ingeschreven bij de Kamer van Koophandel voor Rotterdam onder nummer 51095467.
-RSIN/fiscaal nummer: 8230.88.807
-Bankrekening: NL54RABO0148742181
+Ingeschreven bij de Kamer van Koophandel voor Rotterdam onder nummer 51095467.  
+RSIN/fiscaal nummer: 8230.88.807  
+Bankrekening: NL54RABO0148742181  
 
 ##Doel
 
@@ -29,17 +29,17 @@ Het financieel ondersteunen van kinderen van mensen die zich verdienstelijk gema
 
 ##Adres en contact
 
-Westersingel 6
-3014 GM Rotterdam
-E-mail: nosinga@gmail.com
+Westersingel 6  
+3014 GM Rotterdam  
+E-mail: nosinga@gmail.com  
 
 ##Bestuurders
 
-Voorzitter
-Winfried van den Muijsenbergh
+Voorzitter  
+Winfried van den Muijsenbergh  
 
-Secretaris
-Nanne Osinga
+Secretaris  
+Nanne Osinga  
 
-Penningmeester
-Marlies Martnes
+Penningmeester  
+Marlies Martnes  
