@@ -1,1 +1,6 @@
-site_name: My Docs
+---
+pages:
+  - Home: index.md
+site_name: Stichting Marc Mooij Fonds
+dev_addr: '0.0.0.0:8000'
+theme: readthedocs
